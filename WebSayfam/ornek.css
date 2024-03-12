@@ -1,0 +1,54 @@
+/* Genel Stiller */
+body {
+    padding-top: 70px;
+    background-color: #f8f9fa; /* Arka plan rengi */
+  }
+  
+  /* Navbar Stilleri */
+  .navbar {
+    background-color: #007bff; /* Navbar arka plan rengi */
+  }
+  
+  .navbar-brand,
+  .navbar-nav .nav-link {
+    color: #fff; /* Navbar metin rengi */
+  }
+  
+  .navbar-brand:hover,
+  .navbar-nav .nav-link:hover {
+    color: #e9ecef; /* Navbar metin rengi (üzerine gelindiğinde) */
+  }
+  
+  /* Ana Sayfa Stilleri */
+  #home {
+    background-color: #ffffff; /* Ana sayfa arka plan rengi */
+  }
+  
+  /* Hakkımda Stilleri */
+  #about {
+    background-color: #ffffff; /* Hakkımda arka plan rengi */
+  }
+  
+  /* Projeler Stilleri */
+  #projects {
+    background-color: #f2f2f2; /* Projeler arka plan rengi */
+  }
+  
+  /* Eğitimler Stilleri */
+  #education {
+    background-color: #ffffff; /* Eğitimler arka plan rengi */
+  }
+  
+  /* İletişim Stilleri */
+  #contact {
+    background-color: #f2f2f2; /* İletişim arka plan rengi */
+  }
+  
+  /* Footer Stilleri */
+  footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #343a40; /* Footer arka plan rengi */
+    color: #fff; /* Footer metin rengi */
+  }
